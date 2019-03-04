@@ -4,7 +4,7 @@ Summer semester 2018/2019
 
 Instructor: Lei Zhang
 
-Location: Hörsaal F Psychologie, Liebiggasse 5 1. Stock
+Location: Hörsaal F Psychologie, Liebiggasse 5, 1. Stock
 
 When: 13:15-14:45 Tuesdays (see calendar below)
 
