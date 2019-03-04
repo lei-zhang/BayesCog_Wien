@@ -3,8 +3,8 @@
 # =============================================================================
 # R basics and probability functions
 #
-# Lei Zhang, UKE, Hamburg, DE
-# lei.zhang@uke.de
+# Lei Zhang, SCAN-Unit, univie
+# lei.zhang@univie.ac.at
 
 # =============================================================================
 #### Exercise I #### 
@@ -164,7 +164,7 @@ data_dir = '_data/RL_raw_data'
 
 rawdata = c();
 for (s in 1:ns) {
-    sub_file = file.path(, sprintf('sub%02i/raw_data_sub%i.txt',s,s))
+    sub_file = file.path(, sprintf('sub%02i/raw_data_sub%02i.txt',s,s))
     sub_data = read.table(sub_file, header = T, sep = ",")
     rawdata = rbind(rawdata, sub_data)
 }
@@ -213,30 +213,6 @@ g1 <- g1 + geom_smooth(method = "lm", se = T, colour='skyblue3')
 g1
 #ggsave(plot = g1, "_plots/scatter.png", width = 4, height = 3, type = "cairo-png", units = "in")
 
-
-# =============================================================================
-#### Exercise VI #### 
-# =============================================================================
-
 ## simple regression
 fit1 = lm(acc ~ IQ, data = df)
 summary(fit1)
-
-
-
-# =============================================================================
-#### Exercise VII #### 
-# =============================================================================
-library(MASS)
-str(UScrime)
-# U1 unemployment rate of urban males 14 to 24.
-# U2 unemployment rate of urban males 35 to 39.
-t.test(UScrime$U1, UScrime$U2, paired=TRUE)
-
-
-#------------------------------------------------------------------------------
-# perform a Bayesian t-test using http://sumsar.net/best_online/
-
-
-
-

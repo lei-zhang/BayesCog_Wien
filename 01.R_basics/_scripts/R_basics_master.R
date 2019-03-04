@@ -3,8 +3,8 @@
 # =============================================================================
 # R basics and probability functions
 #
-# Lei Zhang, UKE, Hamburg, DE
-# lei.zhang@uke.de
+# Lei Zhang, SCAN-Unit, univie
+# lei.zhang@univie.ac.at
 
 # =============================================================================
 #### Exercise I #### 
@@ -215,7 +215,7 @@ g1
 
 
 # =============================================================================
-#### Exercise VI #### 
+#### Exercise V, part2 #### 
 # =============================================================================
 
 ## simple regression
@@ -227,59 +227,12 @@ fit4 = lm(acc ~ IQ * Age, data = df) # IQ + Age + IQ:Age
 anova(fit1, fit2, fit3, fit4 )
 AIC(fit1, fit2, fit3, fit4 )
 
+L = list(fit1,fit2,fit3,fit4)
+
 sapply(L, function(x){round(summary(x)$r.squared,2)})
 sapply(L, function(x){round(summary(x)$adj.r.squared,2)})
 
-# round(summary(fit1)$r.squared,2)
-# round(summary(fit2)$r.squared,2)
-# round(summary(fit3)$r.squared,2)
-# round(summary(fit4)$r.squared,2)
-# 
-# round(summary(fit1)$adj.r.squared,2)
-# round(summary(fit2)$adj.r.squared,2)
-# round(summary(fit3)$adj.r.squared,2)
-# round(summary(fit4)$adj.r.squared,2)
 
-
-# =============================================================================
-#### Exercise VII #### 
-# =============================================================================
-library(MASS)
-str(UScrime)
-# U1 unemployment rate of urban males 14 to 24.
-# U2 unemployment rate of urban males 35 to 39.
-t.test(UScrime$U1, UScrime$U2, paired=TRUE)
-
-
-#------------------------------------------------------------------------------
-# perform a Bayesian t-test using http://sumsar.net/best_online/
-
-
-
-dl = list(N = dim(UScrime)[1], y1 = UScrime$U1, y2 = UScrime$U2, 
-          mu_y=mean(c(UScrime$U1,UScrime$U2)), sd_y=sd(c(UScrime$U1,UScrime$U2)) )
-rstan::rstan_options(auto_write = TRUE)
-f = rstan::stan('_scripts/bayes_2mean_ttest_DBDA.stan', data = dl, cores=4,iter = 4000)
-
-mu_diff = extract(f, pars='mu_diff')$mu_diff
-mean(mu_diff)
-
-myconfig <- theme_bw(base_size = 20) +
-    theme(panel.grid.major = element_blank(),
-          panel.grid.minor = element_blank(),
-          panel.background = element_blank() )
-
-g = hBayesDM::plotHDI(mu_diff)
-g = g + labs(x=expression(mu['1'] - mu['2'])) + myconfig
-ggsave(plot = g, "_plots/bayes_ttest.png", width = 4, height = 3, type = "cairo-png", units = "in")
-
-
-#------------------------------------------------------------------------------
-# Calculate Bayes Factor
-library(BayesFactor)
-data(sleep)
-t.test(x = sleep$extra[1:10],y=sleep$extra[11:20], paired=TRUE)
-ttestBF(x = sleep$extra[1:10],y=sleep$extra[11:20], paired=TRUE)
 
 
 
