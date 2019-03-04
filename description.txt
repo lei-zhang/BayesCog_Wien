@@ -1,0 +1,44 @@
+200075 SE Advanced Seminar: Mind and Brain (2019S)
+Bayesian Statistics and Hierarchical Bayesian Modeling for Psychological Science
+
+
+[AIMS]
+Computational modeling and mathematical modeling provide an insightful quantitative framework that allows researchers to inspect latent processes and to understand hidden mechanisms. Hence, computational modeling has gained increasing attention in many areas of cognitive science and neuroscience (hence, cognitive modeling). One illustration of this trend is the growing popularity of Bayesian approaches to cognitive modeling.
+To this aim, this course teaches the theoretical and practical knowledge necessary to perform, evaluate and interpret Bayesian modeling analyses. Target group is students that plan or already started a master's or doctoral thesis using computational modeling.
+
+[CONTENT]
+This course is dedicated to introducing students to the basic knowledge of Bayesian statistics as well as basic techniques of Bayesian cognitive modeling. We will use R/RStudio and a newly developed statistical computing language - Stan (mc-stan.org) to perform Bayesian analyses, ranging from simple binomial model and linear regression model to more complex hierarchical models. Time will be allocated for in-class exercises. A brief introduction to R is also provided at the beginning of the course.
+
+[METHODS]
+Oral presentations by lecturer and students, in-class participation, homework, oral presentations of modeling projects, quizzes, a brief demonstration of running Stan on High Performance Computing (HPC) Clusters.
+
+
+*********************************
+[Minimum requirements]
+- Basic knowledge about statistics (e.g., t-test, regression)
+- Basic R skills (but not a must)
+
+[Assessment criteria]
+- Able to provide a basic understanding of Bayesian statistics
+- Able to understand the difference between Bayesian inference and frequentist inference
+- Able to describe the concept of cognitive modeling and judge when to use it
+- Able to write a simple cognitive model (e.g., Rescorla-Wagner model) in the Stan language
+
+*********************************
+[Journal articles]
+- Kruschke, J. K., & Liddell, T. M. (2018). Bayesian data analysis for newcomers. Psychonomic bulletin & review, 25(1), 155-177.
+- Wagenmakers, E. J., Marsman, M., Jamil, T., Ly, A., Verhagen, J., Love, J., ... & Matzke, D. (2018). Bayesian inference for psychology. Part I: Theoretical advantages and practical ramifications. Psychonomic bulletin & review, 25(1), 35-57.
+- Daw, N. D. (2011). Trial-by-trial data analysis using computational models. Decision making, affect, and learning: Attention and performance XXIII, 23, 3-38.
+- Etz, A., Gronau, Q. F., Dablander, F., Edelsbrunner, P. A., & Baribault, B. (2018). How to become a Bayesian in eight easy steps: An annotated reading list. Psychonomic Bulletin & Review, 25(1), 219-234.
+- Ahn, W. Y., Haines, N., & Zhang, L. (2017). Revealing neurocomputational mechanisms of reinforcement learning and decision-making with the hBayesDM package. Computational Psychiatry, 1, 24-57.
+
+[Books]
+- McElreath, R. (2016). Statistical Rethinking: A Bayesian Course with Examples in R and Stan. CRC Press.
+- Lambert, B. (2018). A Student’s Guide to Bayesian Statistics. Sage.
+
+
+
+
+
+
+
