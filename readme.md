@@ -11,31 +11,19 @@ When: 13:15-14:45 Tuesdays (see calendar below)
 
 # Calendar
  
-L01: 05.03 Overview; Introduction to R
-
-L02: 19.03 Intro to R (Cont.); Probability
-
-L03: 26.03
-
-L04: 02.04
-
-L05: 09.04
-
-L06: 30.04
-
-L07: 07.05
-
-L08: 14.05
-
-L09: 21.05
-
-L10: 28.05
-
-L11: 04.06
-
-L12: 18.06
-
-L13: 25.06
+L01: 05.03 Overview; Introduction to R <br />
+L02: 19.03 Intro to R (Cont.); Probability <br />
+L03: 26.03 <br />
+L04: 02.04 <br />
+L05: 09.04 <br />
+L06: 30.04 <br />
+L07: 07.05 <br />
+L08: 14.05 <br />
+L09: 21.05 <br />
+L10: 28.05 <br />
+L11: 04.06 <br />
+L12: 18.06 <br />
+L13: 25.06 <br />
 
 # Important dates
 19.03: Announcement of the programing project <br />
