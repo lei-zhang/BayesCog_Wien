@@ -11,9 +11,9 @@ When: 13:15-14:45 Tuesdays (see calendar below)
 
 # Calendar
  
-L01: 05.03
+L01: 05.03 Overview; Introduction to R
 
-L02: 19.03
+L02: 19.03 Intro to R (Cont.); Probability
 
 L03: 26.03
 
