@@ -37,6 +37,13 @@ L12: 18.06
 
 L13: 25.06
 
+# Important dates
+19.03: Announcement of the programing project \n
+30.04: Submission deadline for Review of a paper#1
+25.06: Submission deadline for Review of a paper#2
+25.06: in-class quiz (10 multiple choices)
+30.06: Submission deadline for Programming project
+
 
 ### LICENSE
 
