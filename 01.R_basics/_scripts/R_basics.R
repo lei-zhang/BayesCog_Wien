@@ -88,6 +88,10 @@ class(df$f)
 ## Control Flow
 
 # if-else
+#   - generate a random number between 0 and 1
+#   - compare it against 1/3 and 2/3
+#   - print this random number and its position relative to 1/3 and 2/3
+
 t <- runif(1) # random number between 0 and 1
 if (t <= 1/3) {
     cat("t =", , ", t <= 1/3. \n")
@@ -98,7 +102,9 @@ if (t <= 1/3) {
 }
 
 # for-loop
-month_name <- format(ISOdate(2018,1:12,1),"%B")
+#   - Get the name of each month 
+#   - Print it one by one 
+month_name <- format(ISOdate(2019,1:12,1),"%B")
 for (j in 1:length(month_name) ) {
     cat()
 }

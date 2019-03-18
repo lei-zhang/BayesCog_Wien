@@ -90,11 +90,11 @@ class(df$f)
 # if-else
 t <- runif(1) # random number between 0 and 1
 if (t <= 1/3) {
-    cat("t =", t, ", t <= 1/3. \n")
+    cat("t =", round(t,3), ", t <= 1/3. \n")
 } else if (t > 2/3) {
-    cat("t =", t, ", t > 2/3. \n")
+    cat("t =", round(t,3), ", t > 2/3. \n")
 } else {
-    cat("t =", t, ", 1/3 < t <= 2/3. \n")
+    cat("t =", round(t,3), ", 1/3 < t <= 2/3. \n")
 }
 
 # for-loop
