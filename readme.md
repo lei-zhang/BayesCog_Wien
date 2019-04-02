@@ -13,8 +13,8 @@ When: 13:15-14:45 Tuesdays (see calendar below)
  
 L01: 05.03 Overview; Introduction to R <br />
 L02: 19.03 Intro to R (Cont.); Probability <br />
-L03: 26.03 <br /> Probability (Cont.); Bayes' theorem
-L04: 02.04 <br /> Bayesian inference; Binomial model
+L03: 26.03 Probability (Cont.); Bayes' theorem <br />
+L04: 02.04 Bayesian inference; Binomial model <br />
 L05: 09.04 <br />
 L06: 30.04 <br />
 L07: 07.05 <br />
