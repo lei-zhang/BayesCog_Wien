@@ -1,6 +1,6 @@
 Bayesian Statistics and Hierarchical Bayesian Modeling for Psychological Science (200075 SE)
 ===============
-Summer semester 2018/2019
+Advanced Seminar: Mind and Brain; Summer semester 2018/2019
 
 Instructor: Lei Zhang
 
