@@ -14,7 +14,7 @@
 # clear workspace
 rm(list=ls(all=TRUE))
 
-w <- 6
+w <- c(6,7)
 N <- 9
 dataList <- list(w=w, N=N)
 
@@ -25,7 +25,7 @@ library(rstan)
 rstan_options(auto_write = TRUE)
 options(mc.cores = 2)
 
-modelFile <- '_scripts/binomial_globe_model.stan'
+modelFile <- '_scripts/binomial_globe_model_v3.stan'
 nIter     <- 2000
 nChains   <- 4 
 nWarmup   <- floor(nIter/2)
