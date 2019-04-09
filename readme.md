@@ -15,7 +15,7 @@ L01: 05.03 Overview; Introduction to R <br />
 L02: 19.03 Intro to R (Cont.); Probability <br />
 L03: 26.03 Probability (Cont.); Bayes' theorem <br />
 L04: 02.04 Bayesian inference; Binomial model <br />
-L05: 09.04 <br />
+L05: 09.04 Binomial model in Stan; Simple linear regression <br />
 L06: 30.04 <br />
 L07: 07.05 <br />
 L08: 14.05 <br />
@@ -27,7 +27,7 @@ L13: 25.06 <br />
 
 # Important dates
 19.03: Announcement of the programing project <br />
-30.04: Submission deadline for Review of a paper#1 <br />
+05.05: Submission deadline for Review of a paper#1 <br />
 25.06: Submission deadline for Review of a paper#2 <br />
 25.06: in-class quiz (10 multiple choices) <br />
 30.06: Submission deadline for Programming project <br />
