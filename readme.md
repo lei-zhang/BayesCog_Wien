@@ -17,8 +17,8 @@ L03: 26.03 Probability (Cont.); Bayes' theorem <br />
 L04: 02.04 Bayesian inference; Binomial model <br />
 L05: 09.04 Binomial model in Stan; Simple linear regression <br />
 L06: 30.04 Simple linear regression (Cont.); posterior predictive check; intro to cognitive modeling <br />
-L07: 07.05 <br />
-L08: 14.05 <br />
+L07: 07.05 Reinforcement Learning (concepts, meaning of parameters) <br />
+L08: 14.05 Implementing simple RL model<br />
 L09: 21.05 <br />
 L10: 28.05 <br />
 L11: 04.06 <br />
