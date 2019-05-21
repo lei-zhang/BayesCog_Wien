@@ -26,6 +26,8 @@ model {
   tau_sd ~ cauchy(0,3);
   
   // give the prior here: how individual-level parameters are connected to the group-level parameters
+  lr ~ normal(lr_mu, lr_sd);
+  tau ~ normal(tau_mu, tau_sd);
   
   
   for (s in 1:nSubjects) {

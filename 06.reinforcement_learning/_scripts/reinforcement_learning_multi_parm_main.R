@@ -39,7 +39,7 @@ run_rl_mp <- function(modelType = 'indv') {
     
     if (modelType=='indv') {
         modelFile <- '_scripts/reinforcement_learning_mp_indv_model.stan'
-    } else {
+    } else if (modelType == 'hrch') {
         modelFile <- '_scripts/reinforcement_learning_mp_hrch_model.stan'
     } 
     
