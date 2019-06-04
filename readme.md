@@ -19,11 +19,9 @@ L05: 09.04 Binomial model in Stan; Simple linear regression <br />
 L06: 30.04 Simple linear regression (Cont.); posterior predictive check; intro to cognitive modeling <br />
 L07: 07.05 Reinforcement Learning (concepts, meaning of parameters) <br />
 L08: 14.05 Implementing simple RL model<br />
-L09: 21.05 <br />
-L10: 28.05 <br />
-L11: 04.06 <br />
-L12: 18.06 <br />
-L13: 25.06 <br />
+L09: 21.05 Hierarchical modeling; Stan optimization <br />
+L10+11: 04.06 Model Comparison <br />
+L12+13: 18.06 <br />
 
 # Important dates
 19.03: Announcement of the programing project <br />
