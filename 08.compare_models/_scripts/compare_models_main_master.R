@@ -5,8 +5,8 @@
 #
 # true parameters: lr  = rnorm(10, mean=0.6, sd=0.12); tau = rnorm(10, mean=1.5, sd=0.2)
 #
-# Lei Zhang, UKE, Hamburg, DE
-# lei.zhang@uke.de
+# Lei Zhang
+# lei.zhang@univie.ac.at
 
 
 # =============================================================================

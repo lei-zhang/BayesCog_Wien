@@ -45,13 +45,17 @@ model {
   for (s in 1:nSubjects) {
     vector[2] v; 
     real pe;    
+    real penc;
     v = initV;
 
     for (t in 1:nTrials) {        
       choice[s,t] ~ categorical_logit( tau[s] * v );
             
-      pe = reward[s,t] - v[choice[s,t]];      
+      pe = reward[s,t] - v[choice[s,t]];   
+      penc = -reward[s,t] - v[ 3 - choice[s,t]];
+      
       v[choice[s,t]] = v[choice[s,t]] + lr[s] * pe; 
+      v[3 - choice[s,t]] = v[3 - choice[s,t]] + lr[s] * penc;
     }
   }    
 }
@@ -69,6 +73,7 @@ generated quantities {
     for (s in 1:nSubjects) {
       vector[2] v; 
       real pe;    
+      real penc;
 
       log_lik[s] = 0;
       v = initV;
@@ -76,8 +81,11 @@ generated quantities {
       for (t in 1:nTrials) {    
         log_lik[s] = log_lik[s] + categorical_logit_lpmf(choice[s,t] | tau[s] * v);    
               
-        pe = reward[s,t] - v[choice[s,t]];      
+        pe = reward[s,t] - v[choice[s,t]];  
+        penc = -reward[s,t] - v[3- choice[s,t]];  
+        
         v[choice[s,t]] = v[choice[s,t]] + lr[s] * pe; 
+        v[3- choice[s,t]] = v[3 - choice[s,t]] + lr[s] * penc;
       }
     }    
   }
