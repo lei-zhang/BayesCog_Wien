@@ -21,7 +21,7 @@ L07: 07.05 Reinforcement Learning (concepts, meaning of parameters) <br />
 L08: 14.05 Implementing simple RL model<br />
 L09: 21.05 Hierarchical modeling; Stan optimization <br />
 L10+11: 04.06 Model Comparison <br />
-L12+13: 18.06 <br />
+L12+13: 18.06 Stan debugging; Model-based fMRI; Summary <br />
 
 # Important dates
 19.03: Announcement of the programing project <br />
