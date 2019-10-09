@@ -1,34 +1,37 @@
-Bayesian Statistics and Hierarchical Bayesian Modeling for Psychological Science (200075 SE)
+Bayesian Statistics and Hierarchical Bayesian Modeling for Psychological Science (200140 SE)
 ===============
-Advanced Seminar: Mind and Brain; Summer semester 2018/2019
+Advanced Seminar: Mind and Brain; Summer semester 2019/2020
 
 Instructor: Lei Zhang
 
-Location: Hörsaal F Psychologie, Liebiggasse 5, 1. Stock
+Location: Hörsaal II NIG EG
 
-When: 13:15-14:45 Tuesdays (see calendar below)
+When: 11:30-13:00 Wednesdays (see calendar below)
 
 
 # Calendar
  
-L01: 05.03 Overview; Introduction to R <br />
-L02: 19.03 Intro to R (Cont.); Probability <br />
-L03: 26.03 Probability (Cont.); Bayes' theorem <br />
-L04: 02.04 Bayesian inference; Binomial model <br />
-L05: 09.04 Binomial model in Stan; Simple linear regression <br />
-L06: 30.04 Simple linear regression (Cont.); posterior predictive check; intro to cognitive modeling <br />
-L07: 07.05 Reinforcement Learning (concepts, meaning of parameters) <br />
-L08: 14.05 Implementing simple RL model<br />
-L09: 21.05 Hierarchical modeling; Stan optimization <br />
-L10+11: 04.06 Model Comparison <br />
-L12+13: 18.06 Stan debugging; Model-based fMRI; Summary <br />
+L01: 09.10 Introduction and overview <br />
+L02: 16.10 Introduction to R  <br />
+L03: 23.10 Probability; Bayes' theorem <br />
+L04: 30.10 Bayesian inference; Binomial model <br />
+L05: 06.11 Binomial model in Stan; Simple linear regression <br />
+L06: 13.11 Intro to cognitive modeling <br />
+L07: 20.11 Reinforcement Learning (concepts, meaning of parameters) <br />
+L08: 24.11 Implementing simple RL model<br />
+L09: 04.12 Hierarchical modeling <br />
+L10: 11.12 Stan optimization <br />
+L11: 08.01 PRL task model comparison <br />
+L12: --- (NEW date will be announced) More on model comparison; Intro to model-based fMRI <br />
+L13: 22.01 Stan tips + Programming project <br />
+L14: 29.01 Programming project + Summary <br />
+
 
 # Important dates
-19.03: Announcement of the programing project <br />
-05.05: Submission deadline for Review of a paper#1 <br />
-30.06: Submission deadline for Review of a paper#2 <br />
-18.06: in-class quiz (10 multiple choices) <br />
-31.07: Submission deadline for Programming project <br />
+23.10.19: Announcement of the programing project <br />
+20.11.19: Submission deadline for Review of a paper#1 <br />
+15.01.20: Submission deadline for Review of a paper#2 <br />
+23.02.20: Submission deadline for Programming project <br />
 
 
 ### LICENSE
