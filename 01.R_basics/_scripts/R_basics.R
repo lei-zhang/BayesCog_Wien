@@ -149,11 +149,6 @@ data_dir = ('_data/RL_raw_data/sub01/raw_data_sub01.txt')
 data = read.table(data_dir, header = T, sep = ",")
 head(data)
 
-# rm NAs
-sum(complete.cases(data))
-data = data[complete.cases(data),]
-dim(data[complete.cases(data),])
-
 # indexing
 data[1,1]
 data[1,]
@@ -164,21 +159,26 @@ data[1:10, 1:2]
 data[c(1,3,5,6), c(2,4)]
 data$choice
 
+# rm NAs
+sum(complete.cases(data))
+data = data[complete.cases(data),]
+dim(data[complete.cases(data),])
+
 # read in all the data!
 ns = 10
 data_dir = '_data/RL_raw_data'
 
-rawdata = c();
+rawdata = c()
 for (s in 1:ns) {
     sub_file = file.path(, sprintf('sub%02i/raw_data_sub%02i.txt',s,s))
     sub_data = read.table(sub_file, header = T, sep = ",")
     rawdata = rbind(rawdata, sub_data)
 }
 rawdata = rawdata[complete.cases(rawdata),]
+
 rawdata$accuracy = (rawdata$choice == rawdata$correct) * 1.0
 
 acc_mean = aggregate(rawdata$accuracy, by = list(rawdata$subjID), mean)[,2]
-
 
 # =============================================================================
 #### Exercise IV #### 
