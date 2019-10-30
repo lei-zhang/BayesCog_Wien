@@ -29,8 +29,8 @@ L14: 29.01 Programming project + Summary <br />
 
 # Important dates
 23.10.19: Announcement of the programing project <br />
-20.11.19: Submission deadline for Review of a paper#1 <br />
-15.01.20: Submission deadline for Review of a paper#2 <br />
+24.11.19: Submission deadline for Review of a paper#1 <br />
+19.01.20: Submission deadline for Review of a paper#2 <br />
 23.02.20: Submission deadline for Programming project <br />
 
 
