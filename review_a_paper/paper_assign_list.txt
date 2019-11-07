@@ -1,30 +1,17 @@
 =============================================
             1st: PAPER1; 2nd PAPER2
 =============================================
-    1 Baliko
-    2 Eder
-    3 Garber
-    4 Gianinazzi
-    5 Goltermann
-    6 Gyimesi
-    7 Hartmann
-    8 Kern
-    9 Kim
-    10 Kriegleder
-    11 Malik
-    12 Marschner
+    1. a01406697
+    2. a01447859
+    3. a11905886
+    4. a01548241
+    5. a01642221
 
 =============================================
             1st: PAPER2; 2nd PAPER1
 =============================================
-    13 Pfeiffer
-    14 Renz
-    15 Riedl
-    16 Rosenow
-    17 Rother
-    18 Schmeckenbecher
-    19 Schmid
-    20 Vilsmeier
-    21 Xu
-    22Song
-    23Muth
+    6. a01448489
+    7. a01548241
+    8. a11921768
+    9. a01448749
+
