@@ -53,8 +53,8 @@ cat("It took",as.character.Date(endTime - startTime), "\n")
 # =============================================================================
 print(fit_globe)
 
-plot_trace_excl_warm_up <- stan_trace(fit_globe, pars = 'p', inc_warmup = F)
-plot_trace_incl_warm_up <- stan_trace(fit_globe, pars = 'p', inc_warmup = T)
+plot_trace_excl_warm_up <- stan_trace(fit_globe, pars = 'theta', inc_warmup = F)
+plot_trace_incl_warm_up <- stan_trace(fit_globe, pars = 'theta', inc_warmup = T)
 ggsave(plot = plot_trace_excl_warm_up, "_plots/trace_excl_warmup.png", width = 6, height = 4, type = "cairo-png", units = "in")
 ggsave(plot = plot_trace_incl_warm_up, "_plots/trace_incl_warmup.png", width = 6, height = 4, type = "cairo-png", units = "in")
 

@@ -14,7 +14,7 @@
 # clear workspace
 rm(list=ls(all=TRUE))
 
-w <- c(6,7)
+w <- 6
 N <- 9
 dataList <- list(w=w, N=N)
 
@@ -23,9 +23,9 @@ dataList <- list(w=w, N=N)
 # =============================================================================
 library(rstan)
 rstan_options(auto_write = TRUE)
-options(mc.cores = 2)
+options(mc.cores = 4)
 
-modelFile <- '_scripts/binomial_globe_model_v3.stan'
+modelFile <- '_scripts/my_first_stan_model.stan'
 nIter     <- 2000
 nChains   <- 4 
 nWarmup   <- floor(nIter/2)
@@ -53,8 +53,8 @@ cat("It took",as.character.Date(endTime - startTime), "\n")
 # =============================================================================
 print(fit_globe)
 
-plot_trace_excl_warm_up <- stan_trace(fit_globe, pars = 'p', inc_warmup = F)
-plot_trace_incl_warm_up <- stan_trace(fit_globe, pars = 'p', inc_warmup = T)
+plot_trace_excl_warm_up <- stan_trace(fit_globe, pars = 'theta', inc_warmup = F)
+plot_trace_incl_warm_up <- stan_trace(fit_globe, pars = 'theta', inc_warmup = T)
 
 plot_dens_cmb <- stan_dens(fit_globe, separate_chains = F, fill = 'skyblue')
 plot_dens_sep <- stan_dens(fit_globe, separate_chains = T)
