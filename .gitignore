@@ -2,3 +2,7 @@
 .Rhistory
 .RData
 .Ruserdata
+*.Rhistory
+01.R_basics/.Rproj.user/E5E84BA0/pcs/files-pane.pper
+*.pper
+01.R_basics/.Rproj.user/E5E84BA0/sources/prop/INDEX
