@@ -4,7 +4,7 @@ Advanced Seminar: Mind and Brain; 2020S
 
 Instructor: Lei Zhang
 
-Location: Hörsaal E (Liebiggasse 5) [online teaching via Jitsi til 03.04] 
+Location: Hörsaal E (Liebiggasse 5) [online teaching via Zoom] 
 
 When: 09:45-11:15 Wednesdays (see calendar below)
 
