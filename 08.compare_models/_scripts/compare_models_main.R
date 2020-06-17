@@ -48,7 +48,7 @@ cat("Estimating", modelFile1, "model... \n")
 startTime = Sys.time(); print(startTime)
 cat("Calling", nChains, "simulations in Stan... \n")
 
-fit_rl1 <- stan(modelFile1, 
+fit_rl1 <- rstan::stan(modelFile1, 
                data    = dataList, 
                chains  = nChains,
                iter    = nIter,
@@ -68,7 +68,7 @@ cat("Estimating", modelFile2, "model... \n")
 startTime = Sys.time(); print(startTime)
 cat("Calling", nChains, "simulations in Stan... \n")
 
-fit_rl2 <- stan(modelFile2, 
+fit_rl2 <- rstan::stan(modelFile2, 
                 data    = dataList, 
                 chains  = nChains,
                 iter    = nIter,
@@ -85,12 +85,12 @@ cat("It took",as.character.Date(endTime - startTime), "\n")
 # =============================================================================
 #### extract log_likelihood and compare models #### 
 # =============================================================================
-LL1 <- extract_log_lik(fit_rl1)
-LL2 <- extract_log_lik(fit_rl2)
+LL1 <- loo::extract_log_lik(fit_rl1)
+LL2 <- loo::extract_log_lik(fit_rl2)
 
-loo1 <- loo(LL1)
-loo2 <- loo(LL2)
-compare(loo1, loo2) # positive difference indicates the 2nd model's predictive accuracy is higher
+loo1 <- loo::loo(LL1)
+loo2 <- loo::loo(LL2)
+loo::compare(loo1, loo2) # positive difference indicates the 2nd model's predictive accuracy is higher
 
 
 
