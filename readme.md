@@ -14,6 +14,8 @@ Location: [virtually via Zoom]
 
 When: 09:45-11:15 Wednesdays (see calendar below)
 
+Recording: available on [YouTube](https://www.youtube.com/watch?v=8RpLF7ufZs4&list=PLfRTb2z8k2x9gNBypgMIj3oNLF8lqM44-)
+
 
 # Calendar
  
@@ -30,6 +32,21 @@ L10: 03.06 Stan optimization <br />
 L11: 10.06 PRL task and model comparison <br />
 L12: 17.06 Stan tips + Programming project <br />
 L13: 24.06 Programming project + Summary <br />
+
+### List of Folders and contents
+
+Folder | Task | Model
+-----  | ---- | ----
+00.cheatsheet |NA | NA
+01.R_basics |NA | NA
+02.binomial_globe | Globe toss | Binomial Model
+03.bernoulli_coin | Coin flip  | Bernoulli Model
+04.regression_height | Observed weight and height | Linear regression model
+05.regression_height_poly |  Observed weight and height | Linear regression model
+06.reinforcement_learning  | 2-armed bandit task |   Simple reinforcement learning (RL)
+07.optm_rl   | 2-armed bandit task |   Simple reinforcement learning (RL)
+08.compare_models | Probabilistic reversal learning task |  Simple and fictitious RL models
+09.debugging |  Memory Retention | Exponential decay model
 
 
 ### LICENSE
