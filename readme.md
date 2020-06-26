@@ -1,7 +1,7 @@
-Bayesian Statistics and Hierarchical Bayesian Modeling for Psychological Science (200077-1 SE)
+BayesCog: Bayesian Statistics and Hierarchical Bayesian Modeling for Psychological Science (200077-1 SE)
 ===============
 [![GitHub repo size](https://img.shields.io/github/repo-size/lei-zhang/BayesCog_Wien?color=brightgreen&logo=github)](https://github.com/lei-zhang/BayesCog_Wien)
-![GitHub language count](https://img.shields.io/github/languages/count/lei-zhang/BayesCog_Wien?color=brightgreen&logo=github)(https://github.com/lei-zhang/BayesCog_Wien)
+[![GitHub language count](https://img.shields.io/github/languages/count/lei-zhang/BayesCog_Wien?color=brightgreen&logo=github)](https://github.com/lei-zhang/BayesCog_Wien)
 [![GitHub last commit](https://img.shields.io/github/last-commit/lei-zhang/BayesCog_Wien?color=orange&logo=github)](https://github.com/lei-zhang/BayesCog_Wien) <br />
 [![Twitter Follow](https://img.shields.io/twitter/follow/lei_zhang_lz?label=%40lei_zhang_lz)](https://twitter.com/lei_zhang_lz)
 [![Lab Twitter Follow](https://img.shields.io/twitter/follow/ScanUnit?label=%40ScanUnit)](https://twitter.com/ScanUnit)
