@@ -16,6 +16,8 @@ When: 09:45-11:15 Wednesdays (see calendar below)
 
 Recording: available on [YouTube](https://www.youtube.com/watch?v=8RpLF7ufZs4&list=PLfRTb2z8k2x9gNBypgMIj3oNLF8lqM44-)
 
+See also a [Twitter thread](https://twitter.com/lei_zhang_lz/status/1276506555660275714?s=20) on the summary of the course. 
+
 
 # Calendar
  
