@@ -10,7 +10,7 @@ Advanced Seminar: Mind and Brain; 2020S
 
 Instructor: [Dr. Lei Zhang](http://lei-zhang.net/)
 
-Location: [virtually Zoom] 
+Location: [virtually via Zoom] 
 
 When: 09:45-11:15 Wednesdays (see calendar below)
 
