@@ -67,7 +67,7 @@ cat("Estimating", modelFile1, "model... \n")
 startTime = Sys.time(); print(startTime)
 cat("Calling", nChains, "simulations in Stan... \n")
 
-fit_hyperbolic = stan() # complete this line for calling Stan
+fit_rw = stan() # complete this line for calling Stan
 
 cat("Finishing", modelFile1, "model simulation ... \n")
 endTime = Sys.time(); print(endTime)  
@@ -80,7 +80,7 @@ cat("Estimating", modelFile1, "model... \n")
 startTime = Sys.time(); print(startTime)
 cat("Calling", nChains, "simulations in Stan... \n")
 
-fit_heuristic = stan() # complete this line for calling Stan
+fit_rp = stan() # complete this line for calling Stan
 
 cat("Finishing", modelFile2, "model simulation ... \n")
 endTime = Sys.time(); print(endTime)  
