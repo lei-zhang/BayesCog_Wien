@@ -1,10 +1,16 @@
 Bayesian Statistics and Hierarchical Bayesian Modeling for Psychological Science (200077-1 SE)
 ===============
+[![GitHub repo size](https://img.shields.io/github/repo-size/lei-zhang/BayesCog_Wien?color=brightgreen&logo=github)](https://github.com/lei-zhang/BayesCog_Wien)
+![GitHub language count](https://img.shields.io/github/languages/count/lei-zhang/BayesCog_Wien?color=brightgreen&logo=github)(https://github.com/lei-zhang/BayesCog_Wien)
+[![GitHub last commit](https://img.shields.io/github/last-commit/lei-zhang/BayesCog_Wien?color=orange&logo=github)](https://github.com/lei-zhang/BayesCog_Wien) <br />
+[![Twitter Follow](https://img.shields.io/twitter/follow/lei_zhang_lz?label=%40lei_zhang_lz)](https://twitter.com/lei_zhang_lz)
+[![Lab Twitter Follow](https://img.shields.io/twitter/follow/ScanUnit?label=%40ScanUnit)](https://twitter.com/ScanUnit)
+
 Advanced Seminar: Mind and Brain; 2020S
 
-Instructor: Lei Zhang
+Instructor: [Dr. Lei Zhang](http://lei-zhang.net/)
 
-Location: Hörsaal E (Liebiggasse 5) [online teaching via Zoom] 
+Location: [virtually Zoom] 
 
 When: 09:45-11:15 Wednesdays (see calendar below)
 
@@ -26,21 +32,8 @@ L12: 17.06 Stan tips + Programming project <br />
 L13: 24.06 Programming project + Summary <br />
 
 
-# Important dates
-18.03.20: Announcement of the programing project <br />
-10.05.20: Submission deadline for Review of a paper#1 <br />
-14.06.20: Submission deadline for Review of a paper#2 <br />
-31.07.20: Submission deadline for Programming project <br />
-
-
 ### LICENSE
 
 This license (CC BY-NC 4.0) gives you the right to re-use and adapt, as long as you note any changes you made, and provide a link to the original source. Read [here](https://creativecommons.org/licenses/by-nc/4.0/) for more details. 
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/99/Cc-by-nc_icon.svg)
-
-
-
-
-
-
