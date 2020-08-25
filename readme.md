@@ -1,4 +1,4 @@
-# BayesCog <img src="https://github.com/lei-zhang/BayesCog_Wien/raw/master/Thumbnail.png" align="right" width="250px">
+# BayesCog <img src="https://github.com/lei-zhang/BayesCog_Wien/raw/master/Thumbnail.png" align="right" width="300px">
 
 **Bayesian Statistics and Hierarchical Bayesian Modeling for Psychological Science**
 
@@ -22,8 +22,11 @@ Recording: available on [YouTube](https://www.youtube.com/watch?v=8RpLF7ufZs4&li
 
 See also a [**Twitter thread**](https://twitter.com/lei_zhang_lz/status/1276506555660275714?s=20) (being liked 600+ times on Twitter) on the summary of the course. 
 
-\* 2020 semester (March - June).
+\* 2020 Summer Semester.
 
+# Contents
+* Computational modeling and mathematical modeling provide an insightful quantitative framework that allows researchers to inspect latent processes and to understand hidden mechanisms. Hence, computational modeling has gained increasing attention in many areas of cognitive science and neuroscience (hence, cognitive modeling). One illustration of this trend is the growing popularity of Bayesian approaches to cognitive modeling. To this aim, this course teaches the theoretical and practical knowledge necessary to perform, evaluate and interpret Bayesian modeling analyses. 
+* This course is dedicated to introducing students to the basic knowledge of Bayesian statistics as well as basic techniques of Bayesian cognitive modeling. We will use R/RStudio and a newly developed statistical computing language - [Stan](mc-stan.org) to perform Bayesian analyses, ranging from simple binomial model and linear regression model to more complex hierarchical models.
 
 # Calendar
  
@@ -55,6 +58,10 @@ Folder | Task | Model
 07.optm_rl   | 2-armed bandit task |   Simple reinforcement learning (RL)
 08.compare_models | Probabilistic reversal learning task |  Simple and fictitious RL models
 09.debugging |  Memory Retention | Exponential decay model
+
+# Useful links
+* [The distribution zoo](https://ben18785.shinyapps.io/distribution-zoo/): an interactive tool to build intuitions about common probability distributions.
+* [Probability distribution explorer](https://distribution-explorer.github.io/): another interactive tool on probability distributions, with code in `Python` and `Stan`.
 
 ___
 
