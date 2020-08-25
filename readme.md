@@ -24,11 +24,11 @@ See also a [**Twitter thread**](https://twitter.com/lei_zhang_lz/status/12765065
 
 \* 2020 Summer Semester.
 
-# Contents
+## Contents
 * Computational modeling and mathematical modeling provide an insightful quantitative framework that allows researchers to inspect latent processes and to understand hidden mechanisms. Hence, computational modeling has gained increasing attention in many areas of cognitive science and neuroscience (hence, cognitive modeling). One illustration of this trend is the growing popularity of Bayesian approaches to cognitive modeling. To this aim, this course teaches the theoretical and practical knowledge necessary to perform, evaluate and interpret Bayesian modeling analyses. 
 * This course is dedicated to introducing students to the basic knowledge of Bayesian statistics as well as basic techniques of Bayesian cognitive modeling. We will use R/RStudio and a newly developed statistical computing language - [Stan](mc-stan.org) to perform Bayesian analyses, ranging from simple binomial model and linear regression model to more complex hierarchical models.
 
-# Calendar
+## Calendar
  
 L01: 18.03 Introduction and overview <[slides](slides/BayesCog_2020S_L01.pdf)> <[video](https://youtu.be/8RpLF7ufZs4)> <br />
 L02: 27.03 Introduction to R/RStudio I <[slides](slides/BayesCog_2020S_L02+L03.pdf)> <[video](https://youtu.be/Z8dEnRIrrT8)>  <br />
@@ -59,9 +59,25 @@ Folder | Task | Model
 08.compare_models | Probabilistic reversal learning task |  Simple and fictitious RL models
 09.debugging |  Memory Retention | Exponential decay model
 
-# Useful links
+## Useful links
+
 * [The distribution zoo](https://ben18785.shinyapps.io/distribution-zoo/): an interactive tool to build intuitions about common probability distributions.
 * [Probability distribution explorer](https://distribution-explorer.github.io/): another interactive tool on probability distributions, with code in `Python` and `Stan`.
+
+## Recommended reading
+
+```
+[Journal articles]
+- Kruschke, J. K., & Liddell, T. M. (2018). Bayesian data analysis for newcomers. Psychonomic bulletin & review, 25(1), 155-177.
+- Wagenmakers, E. J., Marsman, M., Jamil, T., Ly, A., Verhagen, J., Love, J., ... & Matzke, D. (2018). Bayesian inference for psychology. Part I: Theoretical advantages and practical ramifications. Psychonomic bulletin & review, 25(1), 35-57.
+- Daw, N. D. (2011). Trial-by-trial data analysis using computational models. Decision making, affect, and learning: Attention and performance XXIII, 23, 3-38.
+- Etz, A., Gronau, Q. F., Dablander, F., Edelsbrunner, P. A., & Baribault, B. (2018). How to become a Bayesian in eight easy steps: An annotated reading list. Psychonomic Bulletin & Review, 25(1), 219-234.
+- Ahn, W. Y., Haines, N., & Zhang, L. (2017). Revealing neurocomputational mechanisms of reinforcement learning and decision-making with the hBayesDM package. Computational Psychiatry, 1, 24-57.
+
+[Books]
+- McElreath, R. (2020). Statistical Rethinking: A Bayesian Course with Examples in R and Stan, 2nd Ed. CRC Press.
+- Lambert, B. (2018). A Student’s Guide to Bayesian Statistics. Sage.
+```
 
 ___
 
