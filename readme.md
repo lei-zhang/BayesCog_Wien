@@ -64,6 +64,7 @@ Folder | Task | Model
 * [The distribution zoo](https://ben18785.shinyapps.io/distribution-zoo/): an interactive tool to build intuitions about common probability distributions.
 * [Probability distribution explorer](https://distribution-explorer.github.io/): another interactive tool on probability distributions, with code in `Python` and `Stan`.
 * [Michael Betancourt's blog post](https://betanalpha.github.io/writing/): comprehensive case studies using `Stan`.
+* [The Stan Forums](https://discourse.mc-stan.org/): A community to discuss Stan and Bayesian modeling.
 
 ## Recommended reading
 
