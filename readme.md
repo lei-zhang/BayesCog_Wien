@@ -10,7 +10,7 @@ ___
 [![Twitter Follow](https://img.shields.io/twitter/follow/lei_zhang_lz?label=%40lei_zhang_lz)](https://twitter.com/lei_zhang_lz)
 [![Lab Twitter Follow](https://img.shields.io/twitter/follow/ScanUnit?label=%40ScanUnit)](https://twitter.com/ScanUnit)
 
-Teaching materials for **BayesCog** at [Faculty of Psychology](https://psychologie.univie.ac.at/), [University of Vienna](https://www.univie.ac.at/en/), as part of the Advanced Seminar for master's students (Mind and Brain track)\*.
+Teaching materials for the award winning\* **BayesCog** at [Faculty of Psychology](https://psychologie.univie.ac.at/), [University of Vienna](https://www.univie.ac.at/en/), as part of the Advanced Seminar for master's students (Mind and Brain track; recorded 2020 Summer Semester).
 
 Instructor: [Dr. Lei Zhang](http://lei-zhang.net/)
 
@@ -22,7 +22,7 @@ Recording: available on [YouTube](https://www.youtube.com/watch?v=8RpLF7ufZs4&li
 
 See also a [**Twitter thread**](https://twitter.com/lei_zhang_lz/status/1276506555660275714?s=20) (being liked 600+ times on Twitter) on the summary of the course. 
 
-\* 2020 Summer Semester.
+\* This course received a commendation award from the [Society for the Improvement of Psychological Science (SIPS)](https://improvingpsych.org/mission/awards/).
 
 ## Contents
 * Computational modeling and mathematical modeling provide an insightful quantitative framework that allows researchers to inspect latent processes and to understand hidden mechanisms. Hence, computational modeling has gained increasing attention in many areas of cognitive science and neuroscience (hence, cognitive modeling). One illustration of this trend is the growing popularity of Bayesian approaches to cognitive modeling. To this aim, this course teaches the theoretical and practical knowledge necessary to perform, evaluate and interpret Bayesian modeling analyses. 
