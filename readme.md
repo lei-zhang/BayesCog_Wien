@@ -10,7 +10,7 @@ ___
 [![Twitter Follow](https://img.shields.io/twitter/follow/lei_zhang_lz?label=%40lei_zhang_lz)](https://twitter.com/lei_zhang_lz)
 [![Lab Twitter Follow](https://img.shields.io/twitter/follow/ScanUnit?label=%40ScanUnit)](https://twitter.com/ScanUnit)
 
-Teaching materials for the award winning\* **BayesCog** at [Faculty of Psychology](https://psychologie.univie.ac.at/), [University of Vienna](https://www.univie.ac.at/en/), as part of the Advanced Seminar for master's students (Mind and Brain track; recorded 2020 Summer Semester).
+Teaching materials for the <ins>award winning</ins>\* **BayesCog** seminar at [Faculty of Psychology](https://psychologie.univie.ac.at/), [University of Vienna](https://www.univie.ac.at/en/), as part of the Advanced Seminar for master's students (Mind and Brain track; recorded 2020 Summer Semester).
 
 Instructor: [Dr. Lei Zhang](http://lei-zhang.net/)
 
