@@ -171,6 +171,8 @@ for (s in 1:ns) {
 rawdata = rawdata[complete.cases(rawdata),]
 rawdata$accuracy = (rawdata$choice == rawdata$correct) * 1.0
 
+##R.matlab::writeMat('_data/rawdata_all.mat', rawdata = as.matrix(rawdata))
+
 acc_mean = aggregate(rawdata$accuracy, by = list(rawdata$subjID), mean)[,2]
 
 
@@ -181,6 +183,8 @@ acc_mean = aggregate(rawdata$accuracy, by = list(rawdata$subjID), mean)[,2]
 #------------------------------------------------------------------------------
 # read descriptive data
 load('_data/RL_descriptive.RData')
+#R.matlab::writeMat('_data/RL_descriptive.mat',descriptive=as.matrix(descriptive))
+
 descriptive$acc = acc_mean
 df = descriptive
 
