@@ -20,9 +20,11 @@ When: 09:45-11:15 Wednesdays (see calendar below)
 
 Recording: available on [YouTube](https://www.youtube.com/watch?v=8RpLF7ufZs4&list=PLfRTb2z8k2x9gNBypgMIj3oNLF8lqM44-) (also see below).
 
+Note: the most recent recording from the 2021 summer semester is also available on [Youtube](https://youtube.com/playlist?list=PLfRTb2z8k2x8ZCqDJ0WEFNs2ymXQCliLa).
+
 See also a [**Twitter thread**](https://twitter.com/lei_zhang_lz/status/1276506555660275714?s=20) (being liked 600+ times on Twitter) on the summary of the course. 
 
-\* This course received a commendation award from the [Society for the Improvement of Psychological Science (SIPS)](https://improvingpsych.org/mission/awards/).
+\* This course received a commendation award from the [Society for the Improvement of Psychological Science (SIPS)](https://improvingpsych.org/mission/awards/), as well as an ECR Teaching Award from [Faculty pf Psychology, University of Vienna](https://ecr-psychology.univie.ac.at/news/).
 
 ## Contents
 * Computational modeling and mathematical modeling provide an insightful quantitative framework that allows researchers to inspect latent processes and to understand hidden mechanisms. Hence, computational modeling has gained increasing attention in many areas of cognitive science and neuroscience (hence, cognitive modeling). One illustration of this trend is the growing popularity of Bayesian approaches to cognitive modeling. To this aim, this course teaches the theoretical and practical knowledge necessary to perform, evaluate and interpret Bayesian modeling analyses. 
