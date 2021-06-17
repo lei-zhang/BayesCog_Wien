@@ -10,19 +10,17 @@ ___
 [![Twitter Follow](https://img.shields.io/twitter/follow/lei_zhang_lz?label=%40lei_zhang_lz)](https://twitter.com/lei_zhang_lz)
 [![Lab Twitter Follow](https://img.shields.io/twitter/follow/ScanUnit?label=%40ScanUnit)](https://twitter.com/ScanUnit)
 
-Teaching materials for the <ins>award winning</ins>\* **BayesCog** seminar at [Faculty of Psychology](https://psychologie.univie.ac.at/), [University of Vienna](https://www.univie.ac.at/en/), as part of the Advanced Seminar for master's students (Mind and Brain track; recorded 2020 Summer Semester).
+Teaching materials for the <ins>award winning</ins>\* **BayesCog** seminar at [Faculty of Psychology](https://psychologie.univie.ac.at/), [University of Vienna](https://www.univie.ac.at/en/), as part of the Advanced Seminar for master's students (Mind and Brain track; recorded 2020/2021 Summer Semester).
 
-Instructor: [Dr. Lei Zhang](http://lei-zhang.net/)
+**Instructor**: [Dr. Lei Zhang](http://lei-zhang.net/)
 
-Location: [virtually via Zoom] 
+**Location**: [virtually via Zoom] 
 
-When: 09:45-11:15 Wednesdays (see calendar below)
+**Recording**: available on [YouTube](https://www.youtube.com/watch?v=8RpLF7ufZs4&list=PLfRTb2z8k2x9gNBypgMIj3oNLF8lqM44-) (also see below).
 
-Recording: available on [YouTube](https://www.youtube.com/watch?v=8RpLF7ufZs4&list=PLfRTb2z8k2x9gNBypgMIj3oNLF8lqM44-) (also see below).
+The most recent recording from the 2021 summer semester is also available on [Youtube](https://youtube.com/playlist?list=PLfRTb2z8k2x8ZCqDJ0WEFNs2ymXQCliLa).
 
-Note: the most recent recording from the 2021 summer semester is also available on [Youtube](https://youtube.com/playlist?list=PLfRTb2z8k2x8ZCqDJ0WEFNs2ymXQCliLa).
-
-See also a [**Twitter thread**](https://twitter.com/lei_zhang_lz/status/1276506555660275714?s=20) (being liked 600+ times on Twitter) on the summary of the course. 
+**Outreach**: See also a [**Twitter thread**](https://twitter.com/lei_zhang_lz/status/1276506555660275714?s=20) (being **liked 700+ times** on Twitter) on the summary of the course. 
 
 \* This course received a commendation award from the [Society for the Improvement of Psychological Science (SIPS)](https://improvingpsych.org/mission/awards/), as well as an ECR Teaching Award from [Faculty pf Psychology, University of Vienna](https://ecr-psychology.univie.ac.at/news/).
 
