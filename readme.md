@@ -17,10 +17,9 @@ Teaching materials for the <ins>award winning</ins>\* **BayesCog** seminar at [F
 **Location**: [virtually via Zoom] 
 
 **Recording**: available on [YouTube](https://www.youtube.com/watch?v=8RpLF7ufZs4&list=PLfRTb2z8k2x9gNBypgMIj3oNLF8lqM44-) (also see below).
-
 The most recent recording from the 2021 summer semester is also available on [Youtube](https://youtube.com/playlist?list=PLfRTb2z8k2x8ZCqDJ0WEFNs2ymXQCliLa).
 
-**Outreach**: See also a [**Twitter thread**](https://twitter.com/lei_zhang_lz/status/1276506555660275714?s=20) (being **liked 700+ times** on Twitter) on the summary of the course. 
+**Outreach**: [**Twitter thread**](https://twitter.com/lei_zhang_lz/status/1276506555660275714?s=20) (being **liked 700+ times** on Twitter) summarizing the contents of the course. 
 
 \* This course received a commendation award from the [Society for the Improvement of Psychological Science (SIPS)](https://improvingpsych.org/mission/awards/), as well as an ECR Teaching Award from [Faculty pf Psychology, University of Vienna](https://ecr-psychology.univie.ac.at/news/).
 
