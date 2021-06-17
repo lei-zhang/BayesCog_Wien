@@ -4,10 +4,10 @@ data {
 }
 
 parameters {
-  real<lower=0,upper=1> p;
+  real<lower=0,upper=1> theta;
 }
 
 model {
-  p ~ uniform(0,1);
-  w ~ binomial(N, p);
+  //p ~ uniform(0,1);
+  w ~ binomial(N, theta);
 }

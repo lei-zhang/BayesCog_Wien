@@ -25,7 +25,7 @@ library(rstan)
 rstan_options(auto_write = TRUE)
 options(mc.cores = 4)
 
-modelFile <- '_scripts/my_1st_binomial_model.stan'
+modelFile <- '_scripts/binomial_globe_model.stan'
 nIter     <- 2000
 nChains   <- 4 
 nWarmup   <- floor(nIter/2)
@@ -35,8 +35,8 @@ cat("Estimating", modelFile, "model... \n")
 startTime = Sys.time(); print(startTime)
 cat("Calling", nChains, "simulations in Stan... \n")
 
-fit_globe <- rstan::stan(modelFile, 
-                  data    = dataList, 
+fit_globe <- rstan::stan(modelFile,
+                  data    = dataList,
                   chains  = nChains,
                   iter    = nIter,
                   warmup  = nWarmup,
